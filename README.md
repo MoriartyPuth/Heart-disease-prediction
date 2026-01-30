@@ -32,8 +32,3 @@ The following chart illustrates the absolute importance of each feature in our p
 Our model utilizes Logistic Regression coefficients to determine feature influence:
 - **Negative Correlation:** Features like `dataset_VA Long Beach` and `cp_atypical_angina` show strong negative coefficients, meaning their presence significantly lowers the predicted probability of heart disease in this specific dataset.
 - **Positive Correlation:** Features like `sex_Male` and `oldpeak` show positive coefficients, indicating an increased risk associated with these factors.
-
-## 🚀 Getting Started
-1. Clone the repository: `git clone https://github.com/username/heart-disease-prediction.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the analysis: `python main.py`
